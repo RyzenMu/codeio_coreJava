@@ -11,5 +11,13 @@ public class Varables_Datatypes {
         float abc = 1.456f; // float requires f at the end
         //double 
         double qwe = 1.243534; //
+
+        //boolean
+        boolean a1 = true;
+        boolean a2 = false;
+
+        //character
+        char c = 'd';
+
     }
 }

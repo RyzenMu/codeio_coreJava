@@ -13,7 +13,7 @@ public class JumpStatements {
     }
     public static void method1(){
         for (int i=0; i<=3; i++){
-            for(int j=0; j<=3; j++){
+            for(int j=0; j<=4; j++){
                 System.out.println(i + " " + j);
             }
         }

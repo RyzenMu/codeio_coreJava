@@ -1,0 +1,5 @@
+1. 1.44 - continue from arrays
+2. to initialize an array use [] on either side for example int[] name = new int[50];
+3. array elements should be of same data type
+4. java allocates continous memory in ram for arrays.
+5.
